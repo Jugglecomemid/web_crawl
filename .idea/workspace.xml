@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ee3ecd4-6a8a-4bfa-b77e-0b49fb8a9e8b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZpT4M8GIK6J3Aby3ro6ID4R1Cf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/application" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.爬虫实现百度翻译">
+    <configuration name="爬虫实现百度翻译" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="网络爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/application/爬虫实现百度翻译.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="粤拼转换接口" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="网络爬虫" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/application/粤拼转换接口.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.爬虫实现百度翻译" />
+        <item itemvalue="Python.粤拼转换接口" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ee3ecd4-6a8a-4bfa-b77e-0b49fb8a9e8b" name="Default Changelist" comment="" />
+      <created>1585534843078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585534843078</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1659" height="254" key="GridCell.Tab.0.bottom" timestamp="1585817967897">
+      <screen x="-96" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1659" height="254" key="GridCell.Tab.0.bottom/-96.-1057.1920.1057/0.23.1680.972@-96.-1057.1920.1057" timestamp="1585644942142" />
+    <state width="1659" height="254" key="GridCell.Tab.0.bottom/-96.-1057.1920.1057/0.23.1680.973@-96.-1057.1920.1057" timestamp="1585644422349" />
+    <state width="1659" height="254" key="GridCell.Tab.0.bottom/-96.-1057.1920.1057/0.23.1680.977@-96.-1057.1920.1057" timestamp="1585817967897" />
+    <state width="1659" height="254" key="GridCell.Tab.0.bottom/0.23.1680.973@0.23.1680.973" timestamp="1585536456261" />
+    <state width="1659" height="254" key="GridCell.Tab.0.center" timestamp="1585817967896">
+      <screen x="-96" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1659" height="254" key="GridCell.Tab.0.center/-96.-1057.1920.1057/0.23.1680.972@-96.-1057.1920.1057" timestamp="1585644942141" />
+    <state width="1659" height="254" key="GridCell.Tab.0.center/-96.-1057.1920.1057/0.23.1680.973@-96.-1057.1920.1057" timestamp="1585644422348" />
+    <state width="1659" height="254" key="GridCell.Tab.0.center/-96.-1057.1920.1057/0.23.1680.977@-96.-1057.1920.1057" timestamp="1585817967896" />
+    <state width="1659" height="254" key="GridCell.Tab.0.center/0.23.1680.973@0.23.1680.973" timestamp="1585536456261" />
+    <state width="1659" height="254" key="GridCell.Tab.0.left" timestamp="1585817967895">
+      <screen x="-96" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1659" height="254" key="GridCell.Tab.0.left/-96.-1057.1920.1057/0.23.1680.972@-96.-1057.1920.1057" timestamp="1585644942141" />
+    <state width="1659" height="254" key="GridCell.Tab.0.left/-96.-1057.1920.1057/0.23.1680.973@-96.-1057.1920.1057" timestamp="1585644422348" />
+    <state width="1659" height="254" key="GridCell.Tab.0.left/-96.-1057.1920.1057/0.23.1680.977@-96.-1057.1920.1057" timestamp="1585817967895" />
+    <state width="1659" height="254" key="GridCell.Tab.0.left/0.23.1680.973@0.23.1680.973" timestamp="1585536456260" />
+    <state width="1659" height="254" key="GridCell.Tab.0.right" timestamp="1585817967897">
+      <screen x="-96" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1659" height="254" key="GridCell.Tab.0.right/-96.-1057.1920.1057/0.23.1680.972@-96.-1057.1920.1057" timestamp="1585644942142" />
+    <state width="1659" height="254" key="GridCell.Tab.0.right/-96.-1057.1920.1057/0.23.1680.973@-96.-1057.1920.1057" timestamp="1585644422349" />
+    <state width="1659" height="254" key="GridCell.Tab.0.right/-96.-1057.1920.1057/0.23.1680.977@-96.-1057.1920.1057" timestamp="1585817967897" />
+    <state width="1659" height="254" key="GridCell.Tab.0.right/0.23.1680.973@0.23.1680.973" timestamp="1585536456261" />
+    <state x="509" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1585642861345">
+      <screen x="-96" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="509" y="-822" width="670" height="676" key="search.everywhere.popup/-96.-1057.1920.1057/0.23.1680.972@-96.-1057.1920.1057" timestamp="1585642861345" />
+  </component>
+</project>
